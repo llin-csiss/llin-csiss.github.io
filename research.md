@@ -1,5 +1,5 @@
 <header class="entry-header">
-<h2 class="entry-title">Current Projects</h2>
+<h2 class="entry-title">ON-GOING PROJECTS</h2>
 </header>
 
 <p style="text-align:left;"><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - Present</span></strong><br /> Implementation lead and developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p>
@@ -12,7 +12,7 @@
 &nbsp;
 
 <header class="entry-header">
-<h2 class="entry-title">Past Projects</h2>
+<h2 class="entry-title">PREVIOUS PROJECTS</h2>
 </header>
 <div class="entry-content">
 
