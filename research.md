@@ -8,7 +8,8 @@
 &nbsp;
 <p><a href="http://dss.csiss.gmu.edu/RFCLASS/" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/Rfclass.png" alt="Smiley face" width="200" height="85" align="left" style="margin-right: 10px;"> </a><strong>RFCLASS</strong></p><p>A Remote-sensing-based Flood Crop Loss Assessment Service System (RF-CLASS) for Supporting USDA Crop Statistics and Insurance Decision Making.</p>
 
-
+&nbsp;
+&nbsp;
 
 <header class="entry-header">
 <h1 class="entry-title"> Past Projects</h1>
