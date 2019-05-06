@@ -3,6 +3,7 @@
 
 
 </header>
+<img src="image.jpg" class="align-left" alt="">
 
 <p><img src="https://mmistakes.github.io/jekyll-theme-basically-basic/assets/images/image-alignment-150x150.jpg" class="align-left" alt="" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="highlighter-rouge">.align-left</code> class.</p>
 
