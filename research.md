@@ -2,9 +2,9 @@
 <h2 class="entry-title">Current Projects</h2>
 </header>
 
-<strong><p style="text-align:left;">CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - Present</span></strong><br /> Implementation lead and developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p>
-
 <strong><p style="text-align:left;">OGC Testbed 15 - Developer<span style="float:right;">2019 - Present</span></strong><br />Catalogue & Discovery Service SERVER</p>
+
+<strong><p style="text-align:left;">CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - Present</span></strong><br /> Implementation lead and developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p>
 
 <strong><p style="text-align:left;">RFCLASS - Developer<span style="float:right;">2015 - Present</span></strong><br />Implementation lead and developer for monitoring flood and mapping crop loss for Supporting USDA Crop Statistics and Insurance Decision Making.</p>
 
