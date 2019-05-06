@@ -18,4 +18,4 @@
 
 <strong><p style="text-align:left;">Safe Neighborhoods - Principle Developer and project leader<span style="float:right;">2016 - 2017</span></strong><br />Developed a model and system to find safe neighborhoods by understanding the relationship between crime statistics, demographics, political boundaries, and other factors.</p>
 
-<strong><p style="text-align:left;">USDA CropScape - Developer<span style="float:right;">2014 - 2016</span></strong><br />A system for disseminating Cropland Data Layer products to the U.S. agricultural community and general public. responsible for system maintenance and cross OS migration</p>
+<strong><p style="text-align:left;">USDA CropScape - Developer<span style="float:right;">2014 - 2016</span></strong><br />A system for disseminating Cropland Data Layer products to the U.S. agricultural community and general public. Responsible for system maintenance and cross OS migration</p>
