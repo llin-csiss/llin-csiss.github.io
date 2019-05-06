@@ -1,8 +1,8 @@
 <header class="entry-header">
-<h1 class="entry-title"> Current Projects</h1>
+<h1 class="entry-title">Current Projects</h1>
 </header>
 
-<p><a href="http://ceos.org/ourwork/workinggroups/wgiss/access/cwic/" target="_blank"><strong>CEOS WGISS Integrated Catalog (CWIC)</strong></p></a><p>The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. This webpage provides technical resources for potential CWIC data partners and clients.</p>
+<p><a href="http://ceos.org/ourwork/workinggroups/wgiss/access/cwic/" target="_blank"><strong>CEOS WGISS Integrated Catalog (CWIC)</strong></a></p><p>The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. This webpage provides technical resources for potential CWIC data partners and clients.</p>
 &nbsp;
 
 <p><a href="https://www.opengeospatial.org/projects/initiatives/testbed15" target="_blank"> <strong>OGC Testbed 15</strong></a></p><p>Catalogue & Discovery Service SERVER</p>
