@@ -6,8 +6,6 @@
 
 <p style="text-align:left;"><strong>Safe Neighborhoods (Principle Developer and project leader) was selected as one of the Finalists in the Hexagon IGNITE Challenge.<span style="float:right;">2016</span></strong><br />Hexagon Geospatial</p>
 
-<p style="text-align:left;"><strong>RFCLASS - Developer<span style="float:right;">2015 - Present</span></strong><br />Implementation lead and developer for monitoring flood and mapping crop loss for supporting USDA Crop Statistics and Insurance Decision Making.</p>
-
 <p style="text-align:left;"><strong>Scholarship for U.S.-Sino Agro-geoinformatics summer schools<span style="float:right;">2012 - 2014</span></strong><br /> George Mason University</p>
 
 <hr>
