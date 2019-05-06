@@ -2,10 +2,10 @@
 <h1 class="entry-title"> Current Projects</h1>
 </header>
 
-<p><a href="http://ceos.org/ourwork/workinggroups/wgiss/access/cwic/" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/ceos.jpg" alt="Smiley face" width="170" height="100" align="left" style="margin-right: 10px;"> </a><strong>CEOS WGISS Integrated Catalog (CWIC)</strong></p><p>The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. This webpage provides technical resources for potential CWIC data partners and clients.</p>
+<p><a href="http://ceos.org/ourwork/workinggroups/wgiss/access/cwic/" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/ceos.jpg" alt="Smiley face" width="200" height="100" align="left" style="margin-right: 10px;"> </a><strong>CEOS WGISS Integrated Catalog (CWIC)</strong></p><p>The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. This webpage provides technical resources for potential CWIC data partners and clients.</p>
 &nbsp;
 
-<p><a href="https://www.opengeospatial.org/projects/initiatives/testbed15" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/ogc.png" alt="Smiley face" width="170" height="100" align="left" style="margin-right: 10px;"> </a><strong>OGC Testbed 15</strong></p><p>Catalogue & Discovery Service SERVER</p>
+<p><a href="https://www.opengeospatial.org/projects/initiatives/testbed15" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/ogc.png" alt="Smiley face" width="200" height="100" align="left" style="margin-right: 10px;"> </a><strong>OGC Testbed 15</strong></p><p>Catalogue & Discovery Service SERVER</p>
 &nbsp;
 
 <p><a href="http://dss.csiss.gmu.edu/RFCLASS/" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/Rfclass.png" alt="Smiley face" width="200" height="100" align="left" style="margin-right: 10px;"> </a><strong>RFCLASS</strong></p><p>A Remote-sensing-based Flood Crop Loss Assessment Service System (RF-CLASS) for Supporting USDA Crop Statistics and Insurance Decision Making.</p>
