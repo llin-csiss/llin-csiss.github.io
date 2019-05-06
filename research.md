@@ -2,11 +2,11 @@
 <h2 class="entry-title">Current Projects</h2>
 </header>
 
-<p><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer</strong></a><br />The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. </p>
+<p><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer</strong><br />The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. </p>
 
-<p><strong>OGC Testbed 15 - Developer</strong></a><br />Catalogue & Discovery Service SERVER</p>
+<p><strong>OGC Testbed 15 - Developer</strong><br />Catalogue & Discovery Service SERVER</p>
 
-<p><strong>RFCLASS - Developer</strong> </a><br />A Remote-sensing-based Flood Crop Loss Assessment Service System (RF-CLASS) for Supporting USDA Crop Statistics and Insurance Decision Making.</p>
+<p><strong>RFCLASS - Developer</strong><br />A Remote-sensing-based Flood Crop Loss Assessment Service System (RF-CLASS) for Supporting USDA Crop Statistics and Insurance Decision Making.</p>
 
 
 &nbsp;
