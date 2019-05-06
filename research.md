@@ -18,8 +18,6 @@
 
 <p style="text-align:left;"><strong>Safe Neighborhoods - Principle Developer and project leader<span style="float:right;">2016 - 2017</span></strong><br />Developed a model and system to find safe neighborhoods by understanding the relationship between crime statistics, demographics, political boundaries, and other factors.</p>
 
-<p style="text-align:left;"><strong>USDA CropScape - Developer<span style="float:right;">2014 - 2016</span></strong><br />A system for disseminating Cropland Data Layer products to the U.S. agricultural community and general public. Responsible for system maintenance and cross OS migration</p>
+<p style="text-align:left;"><strong>USDA CropScape - Developer<span style="float:right;">2014 - 2016</span></strong><br />A system for disseminating Cropland Data Layer products to the U.S. agricultural community and general public. Responsible for system (hardware/software) maintenance and cross OS migration</p>
   
-<p style="text-align:left;"><strong>OGC Testbed 12 - Developer<span style="float:right;">2016</span></strong><br />Command Center (CMD)/ Large-Scale Analytics (LSA)</p>
-  
-<p style="text-align:left;"><strong>OGC Testbed 11 to 14 - Developer<span style="float:right;">2014 - 2017</span></strong><br />Urban-Climate Resilience (UCR) Thread - Cloud hosting support</p>
+<p style="text-align:left;"><strong>OGC Testbed 11 to 14 - Developer<span style="float:right;">2014 - 2018</span></strong><br />Participanted in following threads: <br />Urban-Climate Resilience (UCR) - Cloud hosting support<br />Command Center (CMD)<br />Large-Scale Analytics (LSA)</p>
