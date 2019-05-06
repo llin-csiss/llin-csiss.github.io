@@ -13,7 +13,7 @@
 &nbsp;
 
 <header class="entry-header">
-<h2 class="entry-title"> Past Projects</h2>
+<h2 class="entry-title">Past Projects</h2>
 </header>
 <div class="entry-content">
 
