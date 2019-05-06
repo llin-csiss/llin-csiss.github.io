@@ -8,8 +8,7 @@
 
 <p style="text-align:left;"><strong>RFCLASS - Developer<span style="float:right;">2015 - Present</span></strong><br />Implementation lead and developer for monitoring flood and mapping crop loss for supporting USDA Crop Statistics and Insurance Decision Making.</p>
 
-&nbsp;
-&nbsp;
+ <hr>
 
 <header class="entry-header">
 <h2 class="entry-title">PREVIOUS PROJECTS</h2>
