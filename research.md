@@ -1,5 +1,5 @@
 <header class="entry-header">
-<h1 class="entry-title">Current Projects</h1>
+<h2 class="entry-title">Current Projects</h2>
 </header>
 
 <p><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer</strong></a><br />The CWIC Project provides the world’s satellite Earth observation data providers with a way to make their data collections searchable using common standards. </p>
@@ -13,7 +13,7 @@
 &nbsp;
 
 <header class="entry-header">
-<h1 class="entry-title"> Past Projects</h1>
+<h2 class="entry-title"> Past Projects</h2>
 </header>
 <div class="entry-content">
 
