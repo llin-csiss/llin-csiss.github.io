@@ -2,12 +2,9 @@
 <h1 class="entry-title"> Current Projects</h1>
 </header>
 <div class="entry-content">
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">![</span><span class="nv">left-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-left}
-<span class="p">![</span><span class="nv">center-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-center}
-<span class="p">![</span><span class="nv">right-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-right}
-</code></pre></div></div>
+
   
- <p><img src="https://mmistakes.github.io/jekyll-theme-basically-basic/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="highlighter-rouge">.align-left</code> class.</p>
+ <p><img src="https://mmistakes.github.io/jekyll-theme-basically-basic/assets/images/image-alignment-150x150.jpg" class="align-left" alt="" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="highlighter-rouge">.align-left</code> class.</p>
 
 <p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we’ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it’s thing. Mission accomplished!</p>
 
