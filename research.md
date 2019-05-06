@@ -2,7 +2,10 @@
 <h1 class="entry-title"> Current Projects</h1>
 </header>
 <div class="entry-content">
-
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">![</span><span class="nv">left-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-left}
+<span class="p">![</span><span class="nv">center-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-center}
+<span class="p">![</span><span class="nv">right-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-right}
+</code></pre></div></div>
   
  <p><img src="https://mmistakes.github.io/jekyll-theme-basically-basic/assets/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="highlighter-rouge">.align-left</code> class.</p>
 
