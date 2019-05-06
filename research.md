@@ -16,7 +16,4 @@
 </header>
 <div class="entry-content">
 
-<strong><a href="https://store.hexagongeospatial.com/apps/138892" target="_blank"><img class="alignleft wp-image-111 size-full" src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/Safe_neigh.png" alt="crime-alert_logo_115" width="115" height="115" /></a>Safe Neighborhoods</strong>
-
-Find safe neighborhoods by understanding the relationship between crime statistics, demographics, political boundaries, and other factors.
-<div class="page" title="Page 28">
+<p><a href="https://store.hexagongeospatial.com/apps/138892" target="_blank"><img src="https://raw.githubusercontent.com/llin-csiss/llin-csiss.github.io/master/images/Safe_neigh.png" alt="Smiley face" width="85" height="85" align="left" style="margin-right: 10px;"> </a><strong>Safe Neighborhoods</strong></p><p>Find safe neighborhoods by understanding the relationship between crime statistics, demographics, political boundaries, and other factors.</p>
