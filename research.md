@@ -24,4 +24,3 @@
 
 <p style="text-align:left;"><strong>Local Knowledge & Climate Change Adaptation Project (LKCCAP) - Developer<span style="float:right;">2012 - 2013</span></strong><br />Utilized webmapping technique in storytelling applications to support the project.</p>
   
-<p style="text-align:left;"><strong>Geocoding and data analysis for a Political Science - Develpoer<span style="float:right;">2012</span></strong><br />Participanted in following threads: <br />Urban-Climate Resilience (UCR) - Cloud hosting support<br />Command Center (CMD)<br />Large-Scale Analytics (LSA)</p>
