@@ -25,11 +25,17 @@ $google-scholar-color: #4788ee;
   }
 }
 .ai-researchgate {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
   padding: 5px;
   @include social-media-icon($researchgate-color, $icon-transition-time);
 }
 
 .ai-google-scholar {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
   padding: 5px;
   @include social-media-icon($google-scholar-color, $icon-transition-time);
 }
