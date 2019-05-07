@@ -13,3 +13,11 @@
 {% if site.footer-links.googleplus %}<a href="https://scholar.google.com/{{ site.footer-links.googleplus }}"><i class="svg-icon googleplus"></i></a>{% endif %}
 {% if site.footer-links.rg %}<a href="https://researchgate.net/{{ site.footer-links.rg }}"><i class="svg-icon rg"></i></a>{% endif %}
 <i class="fab fa-researchgate"></i>
+
+{% for item in site.data.settings.social %}
+  {% if item.icon == 'researchgate' or item.icon == 'google-scholar' %}
+    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="ai ai-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% else %}
+    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endif %}
+{% endfor %}
