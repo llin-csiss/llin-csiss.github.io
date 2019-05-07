@@ -1,9 +1,4 @@
----
-layout: page
-title: CONTACT
-permalink: /about/
-published: true
----
+
 
 - E-mail: llin2 at gmu dot edu
 
