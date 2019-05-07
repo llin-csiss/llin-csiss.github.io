@@ -11,6 +11,8 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
+$researchgate-color: #00d09d;
+$google-scholar-color: #4788ee;
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
