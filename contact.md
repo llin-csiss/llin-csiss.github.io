@@ -5,12 +5,6 @@ permalink: /about/
 published: true
 ---
 
-
-
-
-
-
-
 - E-mail: llin2 at gmu dot edu
 
 - Fax: 703-993-6127
