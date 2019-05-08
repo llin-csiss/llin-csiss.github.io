@@ -5,4 +5,5 @@
 **Lin, L.**, Di, L., Zhang, C., Hu, L., Tang, J., & Yu, E. (2017). Developing a Web service based application for demographic information modeling and analyzing. In _Agro-Geoinformatics, 2017 6th International Conference on_ (pp. 1–5).<br>
 
 
+Full publication list can be found at Google Scholar
 Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.
