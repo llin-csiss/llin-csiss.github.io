@@ -25,7 +25,7 @@
 <p style="text-align:left;"><strong>Local Knowledge & Climate Change Adaptation Project (LKCCAP) - Developer<span style="float:right;">2012 - 2013</span></strong><br />Utilized webmapping technique in storytelling applications to support the project.</p><br>
 
 <header class="entry-header">
-<h2 class="entry-title">Selected Publications</h2><hr>
+<h2 class="entry-title">SELECTED PUBLICATIONS</h2><hr>
 </header>
 <div class="entry-content"> 
 
