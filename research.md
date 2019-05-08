@@ -31,7 +31,7 @@
 
 
 
-<p style="text-align:left;">- <strong>Lin, L.</strong>, Di, L., Tang, J., Yu, E., Zhang, C., Rahman, M., ... & Kang, L. (2019). <a style="color: #000000;" href="https://www.mdpi.com/2072-4292/11/2/205">Improvement and Validation of NASA/MODIS NRT Global Flood Mapping. </a><i>Remote Sensing</i>, 11(2), 205.</p><br>
+<p style="text-align:left;">- <strong>Lin, L.</strong>, Di, L., Tang, J., Yu, E., Zhang, C., Rahman, M., ... & Kang, L. (2019). <a style="color: #355e98;" href="https://www.mdpi.com/2072-4292/11/2/205">Improvement and Validation of NASA/MODIS NRT Global Flood Mapping. </a><i>Remote Sensing</i>, 11(2), 205.</p><br>
 <p style="text-align:left;">- <strong>Lin, L.</strong>, Di, L., Yang, R., Zhang, C., Yu, E., Rahman, M. S., … Tang, J. (2018). Using Machine Learning Approach to Evaluate the PM2. 5 Concentrations in China from 1998 to 2016. In <i>2018 7th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–5).</p><br>
 - <strong>Lin, L.</strong>, Di, L., Yu, E. G., Tang, J., Shrestha, R., Rahman, M. S., … others. (2017). Extract flood duration from Dartmouth Flood Observatory flood product. In <i>Agro-Geoinformatics, 2017 6th International Conference on (pp. 1–4)</i>.<br>
 - <strong>Lin, L.</strong>, Di, L., Zhang, C., Hu, L., Tang, J., & Yu, E. (2017). Developing a Web service based application for demographic information modeling and analyzing. In <i>Agro-Geoinformatics, 2017 6th International Conference on</i> (pp. 1–5).<br>
@@ -39,4 +39,4 @@
 
 <br>
 Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.<br>
-Full publication list can be found at <a style="color: #000000;" href="https://scholar.google.com/citations?user=Kg99EKkAAAAJ&hl=en">Google Scholar</a>.<br>
+Full publication list can be found at <a style="color: #355e98;" href="https://scholar.google.com/citations?user=Kg99EKkAAAAJ&hl=en">Google Scholar</a>.<br>
