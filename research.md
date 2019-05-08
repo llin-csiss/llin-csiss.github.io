@@ -28,7 +28,7 @@
 <h2 class="entry-title">Selected Publications</h2><hr>
 </header>
 <div class="entry-content"> 
-Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.<br>
+
 
 
 - <strong>Lin, L.</strong>, Di, L., Tang, J., Yu, E., Zhang, C., Rahman, M., ... & Kang, L. (2019). Improvement and Validation of NASA/MODIS NRT Global Flood Mapping. <i>Remote Sensing</i>, 11(2), 205.<br>
@@ -38,4 +38,5 @@ Note: Copies of papers are just provided for your own research and/or study. The
 - <strong>Lin, L.</strong>, Di, L., Yu, E. G., Kang, L., Shrestha, R., Rahman, M. S., … others. (2016). A review of remote sensing in flood assessment. In Agro-Geoinformatics (Agro-Geoinformatics), <i>2016 Fifth International Conference on (pp. 1–4)</i>. <br>
 
 <br>
+Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.<br>
 Full publication list can be found at <a style="color: #000000;" href="https://scholar.google.com/citations?user=Kg99EKkAAAAJ&hl=en">Google Scholar.<br>
