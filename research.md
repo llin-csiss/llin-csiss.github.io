@@ -39,4 +39,4 @@
 
 <br>
 Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.<br>
-Full publication list can be found at <a style="color: #355e98;" href="https://scholar.google.com/citations?user=Kg99EKkAAAAJ&hl=en">Google Scholar</a>.<br>
+Full publication list can be found at <a href="https://scholar.google.com/citations?user=Kg99EKkAAAAJ&hl=en">Google Scholar</a>.<br>
