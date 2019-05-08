@@ -22,5 +22,20 @@
   
 <p style="text-align:left;"><strong>OGC Testbed 11 to 14 - Developer<span style="float:right;">2014 - 2018</span></strong><br />Participanted in following threads: <br />Urban-Climate Resilience (UCR) - Cloud hosting support<br />Command Center (CMD)<br />Large-Scale Analytics (LSA)</p>
 
-<p style="text-align:left;"><strong>Local Knowledge & Climate Change Adaptation Project (LKCCAP) - Developer<span style="float:right;">2012 - 2013</span></strong><br />Utilized webmapping technique in storytelling applications to support the project.</p>
-  
+<p style="text-align:left;"><strong>Local Knowledge & Climate Change Adaptation Project (LKCCAP) - Developer<span style="float:right;">2012 - 2013</span></strong><br />Utilized webmapping technique in storytelling applications to support the project.</p><br>
+
+<header class="entry-header">
+<h2 class="entry-title">Selected Publications</h2><hr>
+</header>
+<div class="entry-content"> 
+Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.<br>
+
+
+- **Lin, L.**, Di, L., Tang, J., Yu, E., Zhang, C., Rahman, M., ... & Kang, L. (2019). Improvement and Validation of NASA/MODIS NRT Global Flood Mapping. _Remote Sensing_, 11(2), 205.<br>
+- **Lin, L.**, Di, L., Yang, R., Zhang, C., Yu, E., Rahman, M. S., … Tang, J. (2018). Using Machine Learning Approach to Evaluate the PM2. 5 Concentrations in China from 1998 to 2016. In _2018 7th International Conference on Agro-geoinformatics (Agro-geoinformatics)_ (pp. 1–5).<br>
+- **Lin, L.**, Di, L., Yu, E. G., Tang, J., Shrestha, R., Rahman, M. S., … others. (2017). Extract flood duration from Dartmouth Flood Observatory flood product. In _Agro-Geoinformatics, 2017 6th International Conference on (pp. 1–4)_.<br>
+- **Lin, L.**, Di, L., Zhang, C., Hu, L., Tang, J., & Yu, E. (2017). Developing a Web service based application for demographic information modeling and analyzing. In _Agro-Geoinformatics, 2017 6th International Conference on_ (pp. 1–5).<br>
+- **Lin, L.**, Di, L., Yu, E. G., Kang, L., Shrestha, R., Rahman, M. S., … others. (2016). A review of remote sensing in flood assessment. In Agro-Geoinformatics (Agro-Geoinformatics), _2016 Fifth International Conference on (pp. 1–4)_. <br>
+
+<br>
+Full publication list can be found at <a style="color: #000000;" href="https://scholar.google.com/citations?user=Kg99EKkAAAAJ&hl=en">Google Scholar.<br>
