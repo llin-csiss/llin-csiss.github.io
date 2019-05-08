@@ -1,2 +1,8 @@
 
-Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions. 
+**Lin, L.**, Di, L., Yang, R., Zhang, C., Yu, E., Rahman, M. S., … Tang, J. (2018). Using Machine Learning Approach to Evaluate the PM2. 5 Concentrations in China from 1998 to 2016. In 2018 7th International Conference on Agro-geoinformatics (Agro-geoinformatics) (pp. 1–5).
+**Lin, L.**, Di, L., Yu, E. G., Kang, L., Shrestha, R., Rahman, M. S., … others. (2016). A review of remote sensing in flood assessment. In Agro-Geoinformatics (Agro-Geoinformatics), 2016 Fifth International Conference on (pp. 1–4). 
+**Lin, L.**, Di, L., Yu, E. G., Tang, J., Shrestha, R., Rahman, M. S., … others. (2017). Extract flood duration from Dartmouth Flood Observatory flood product. In Agro-Geoinformatics, 2017 6th International Conference on (pp. 1–4).
+**Lin, L.**, Di, L., Zhang, C., Hu, L., Tang, J., & Yu, E. (2017). Developing a Web service based application for demographic information modeling and analyzing. In Agro-Geoinformatics, 2017 6th International Conference on (pp. 1–5).
+
+
+Note: Copies of papers are just provided for your own research and/or study. They may be subject to copyright restrictions.
