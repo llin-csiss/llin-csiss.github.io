@@ -19,7 +19,7 @@ social:
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=userID'}
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: Li_Lin131
+  dribbble: citations?user=Kg99EKkAAAAJ&hl=en
   email: llin2@gmu.edu
   facebook: 
   flickr:
@@ -31,7 +31,7 @@ footer-links:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: citations?user=Kg99EKkAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/
+  googleplus: Li_Lin131 # anything in your profile username that comes after plus.google.com/
   rgate: 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
