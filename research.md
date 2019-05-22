@@ -2,7 +2,7 @@
 <h2 class="entry-title">ON-GOING PROJECTS</h2><hr>
 </header>
 
-<p style="text-align:left;"><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - Present</span></strong><br /> Implementation lead and developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p>
+<p style="text-align:left;"><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - Present</span></strong><br /> Developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p>
 
 <p style="text-align:left;"><strong>OGC Testbed 15 - Developer<span style="float:right;">2019 - Present</span></strong><br />Catalogue & Discovery Service SERVER</p>
 
