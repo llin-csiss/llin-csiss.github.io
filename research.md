@@ -30,7 +30,8 @@
 <div class="entry-content"> 
 
 
-
+<p style="text-align:left;"><strong>Lin, L.</strong>, & Zhang, C. <a href="/asset/pub/Chapter_LandParcelIdentification.pdf" target="_blank">Land Parcel Identification. </a> <i>Agro-geoinformatics: Theory and Practice,</i> 163. </p>
+ 
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Tang, J., Yu, E., Zhang, C., Rahman, M., ... & Kang, L. (2019). <a href="/asset/pub/Improvement_and_Validation_of_NASA_MODIS_NRT_Global_Flood_Mapping.pdf" target="_blank">Improvement and Validation of NASA/MODIS NRT Global Flood Mapping. </a><i>Remote Sensing</i>, 11(2), 205.</p>
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yang, R., Zhang, C., Yu, E., Rahman, M. S., … Tang, J. (2018).<a href="/asset/pub/Using_Machine_Learning_Approach_to_Evaluate_the_PM2. 5_Concentrations_in_China_from_1998_to_2016.pdf" target="_blank"> Using Machine Learning Approach to Evaluate the PM2. 5 Concentrations in China from 1998 to 2016.</a> In <i>2018 7th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–5).</p>
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yu, E. G., Tang, J., Shrestha, R., Rahman, M. S., … others. (2017). <a href="/asset/pub/Extract_flood_duration_from_Dartmouth_Flood_Observatory_flood_product.pdf" target="_blank">Extract flood duration from Dartmouth Flood Observatory flood product.</a> In <i>Agro-Geoinformatics, 2017 6th International Conference on (pp. 1–4)</i>.</p>
