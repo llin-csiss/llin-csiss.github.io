@@ -32,7 +32,7 @@
 <h2 class="entry-title">SELECTED PUBLICATIONS</h2><hr>
 </header>
 <div class="entry-content"> 
-<p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Guo, L. & Di, Y. (2019). <a href="https://www.mdpi.com/2072-4292/13/20/4022/pdf" target="_blank">Remote Sensing of Urban Poverty and Gentrification. </a><i>Remote Sensing</i>, 13(20), 4022</p> 
+<p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Guo, L. & Di, Y. (2021). <a href="https://www.mdpi.com/2072-4292/13/20/4022/pdf" target="_blank">Remote Sensing of Urban Poverty and Gentrification. </a><i>Remote Sensing</i>, 13(20), 4022</p> 
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yu, E., Zhang, C., & Zhao, H. (2021).<a href="/asset/pub/A_review_of_remote_sensing_in_flood_assessment.pdf" target="_blank"> Disaster Information Dissemination During Emergency Event: An Experiment in OGC Disaster Resilience Pilot.</a> In <i>2021 9th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–4).</p>
                                                                                                                                      
 <p style="text-align:left;"><strong>Lin, L.</strong>, & Zhang, C. <a href="/asset/pub/Chapter_LandParcelIdentification.pdf" target="_blank">Land Parcel Identification. </a> <i>Agro-geoinformatics: Theory and Practice,</i> 163. </p>
