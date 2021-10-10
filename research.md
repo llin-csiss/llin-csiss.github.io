@@ -2,11 +2,11 @@
 <h2 class="entry-title">ON-GOING PROJECTS</h2><hr>
 </header>
 
-<p style="text-align:left;"><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - Present</span></strong><br /> Developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p>
+<p style="text-align:left;"><strong>Food and Agriculture Cyberinformatics Tools (FACT): Machine-learning-based In-season Crop Mapping and Associated Cloud-based Bigdata Cyberinfrastructure to Support USDA NASS Decision Making - Developer<span style="float:right;">2021 - Present</span></strong><br /> Research project funded by USDA NIFA (Grant #2021-67021-34151, PI: Dr. Liping Di)</p>
 
-<p style="text-align:left;"><strong>OGC Testbed 15 - Developer<span style="float:right;">2019 - Present</span></strong><br />Catalogue & Discovery Service SERVER</p>
+<p style="text-align:left;"><strong>WaterSmart: A Cyberinfrastructure-Based Integrated Agro-Geoinformatic Decision-Support Web Service System to Facilitate Informed Irrigation Decision-Making<span style="float:right;">2018 - Present</span></strong><br />Research project funded by National Science Foundation (Grant #CNS-1739705, PI: Dr. Liping Di)</p>
 
-<p style="text-align:left;"><strong>RFCLASS - Developer<span style="float:right;">2015 - Present</span></strong><br />Implementation lead and developer for monitoring flood and mapping crop loss for supporting USDA Crop Statistics and Insurance Decision Making.</p>
+<p style="text-align:left;"><strong>GEOSS Components and Services Registry - Principle Developer<span style="float:right;">2021 - Present</span></strong><br />Operational system in collaboration with Federal Geographic Data Committee and U.S. Geological Survey.</p>
 <br>
 <br>
  
@@ -15,12 +15,16 @@
 <h2 class="entry-title">PREVIOUS PROJECTS</h2><hr>
 </header>
 <div class="entry-content">
+ 
+<p style="text-align:left;"><strong>CEOS WGISS Integrated Catalog (CWIC) - Principle Developer<span style="float:right;">2017 - 2019</span></strong><br /> Developer for the Committee on Earth Observation Satellites (CEOS) Working Group on Information Systems and Services (WGISS) Integrated Satellite Data Catalogue (CWIC) project</p> 
 
+<p style="text-align:left;"><strong>RFCLASS - Developer<span style="float:right;">2015 - 2020</span></strong><br />Implementation lead and developer for monitoring flood and mapping crop loss for supporting USDA Crop Statistics and Insurance Decision Making.</p>
+ 
 <p style="text-align:left;"><strong>Safe Neighborhoods - Principle Developer and project leader<span style="float:right;">2016 - 2017</span></strong><br />Developed a model and system to find safe neighborhoods by understanding the relationship between crime statistics, demographics, political boundaries, and other factors.</p>
 
 <p style="text-align:left;"><strong>USDA CropScape - Developer<span style="float:right;">2014 - 2016</span></strong><br />A system for disseminating Cropland Data Layer products to the U.S. agricultural community and general public. Responsible for system (hardware/software) maintenance and cross OS migration</p>
   
-<p style="text-align:left;"><strong>OGC Testbed 11 to 14 - Developer<span style="float:right;">2014 - 2018</span></strong><br />Participated in following threads: <br />Urban-Climate Resilience (UCR) - Cloud<br />Command Center (CMD)<br />Large-Scale Analytics (LSA)</p>
+<p style="text-align:left;"><strong>OGC Testbed 11 to 15 - Developer<span style="float:right;">2014 - 2019</span></strong><br />Participated in following threads: <br />Urban-Climate Resilience (UCR) - Cloud<br />Command Center (CMD)<br />Large-Scale Analytics (LSA)<br />Catalogue & Discovery Service SERVER</p>
 
 <p style="text-align:left;"><strong>Local Knowledge & Climate Change Adaptation Project (LKCCAP) - Developer<span style="float:right;">2012 - 2013</span></strong><br />Utilized webmapping technique in storytelling applications to support the project.</p><br>
 
