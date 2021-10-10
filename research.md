@@ -4,7 +4,7 @@
 
 <p style="text-align:left;"><strong>Food and Agriculture Cyberinformatics Tools (FACT): Machine-learning-based In-season Crop Mapping and Associated Cloud-based Bigdata Cyberinfrastructure to Support USDA NASS Decision Making - Developer<span style="float:right;">2021 - Present</span></strong><br /> Research project funded by USDA NIFA (Grant #2021-67021-34151, PI: Dr. Liping Di)</p>
 
-<p style="text-align:left;"><strong>WaterSmart: A Cyberinfrastructure-Based Integrated Agro-Geoinformatic Decision-Support Web Service System to Facilitate Informed Irrigation Decision-Making<span style="float:right;">2018 - Present</span></strong><br />Research project funded by National Science Foundation (Grant #CNS-1739705, PI: Dr. Liping Di)</p>
+<p style="text-align:left;"><strong>WaterSmart: A Cyberinfrastructure-Based Integrated Agro-Geoinformatic Decision-Support Web Service System to Facilitate Informed Irrigation Decision-Making - Developer<span style="float:right;">2018 - Present</span></strong><br />Research project funded by National Science Foundation (Grant #CNS-1739705, PI: Dr. Liping Di)</p>
 
 <p style="text-align:left;"><strong>GEOSS Components and Services Registry - Principle Developer<span style="float:right;">2021 - Present</span></strong><br />Operational system in collaboration with Federal Geographic Data Committee and U.S. Geological Survey.</p>
 <br>
@@ -32,12 +32,15 @@
 <h2 class="entry-title">SELECTED PUBLICATIONS</h2><hr>
 </header>
 <div class="entry-content"> 
-
-
+<p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Guo, L. & Di, Y. (2019). <a href="https://www.mdpi.com/2072-4292/13/20/4022/pdf" target="_blank">Remote Sensing of Urban Poverty and Gentrification. </a><i>Remote Sensing</i>, 13(20), 4022</p> 
+<p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yu, E., Zhang, C., & Zhao, H. (2021).<a href="/asset/pub/A_review_of_remote_sensing_in_flood_assessment.pdf" target="_blank"> Disaster Information Dissemination During Emergency Event: An Experiment in OGC Disaster Resilience Pilot.</a> In <i>2021 9th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–4).</p>
+                                                                                                                                     
 <p style="text-align:left;"><strong>Lin, L.</strong>, & Zhang, C. <a href="/asset/pub/Chapter_LandParcelIdentification.pdf" target="_blank">Land Parcel Identification. </a> <i>Agro-geoinformatics: Theory and Practice,</i> 163. </p>
- 
+
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Tang, J., Yu, E., Zhang, C., Rahman, M., ... & Kang, L. (2019). <a href="/asset/pub/Improvement_and_Validation_of_NASA_MODIS_NRT_Global_Flood_Mapping.pdf" target="_blank">Improvement and Validation of NASA/MODIS NRT Global Flood Mapping. </a><i>Remote Sensing</i>, 11(2), 205.</p>
+<p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Guo, L., Tang, J., Yu, E., ... & Gaigalas, J. (2019).<a href="/asset/pub/Building_Near-Real-Time_MODIS_Data_Fusion_Workflow_to_Support_Agricultural_Decision-making_Applications.pdf" target="_blank"> Building Near-Real-Time MODIS Data Fusion Workflow to Support Agricultural Decision-making Applications.</a> In <i>2019 8th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–5).</p>
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yang, R., Zhang, C., Yu, E., Rahman, M. S., … Tang, J. (2018).<a href="/asset/pub/Using_Machine_Learning_Approach_to_Evaluate_the_PM2. 5_Concentrations_in_China_from_1998_to_2016.pdf" target="_blank"> Using Machine Learning Approach to Evaluate the PM2. 5 Concentrations in China from 1998 to 2016.</a> In <i>2018 7th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–5).</p>
+  
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yu, E. G., Tang, J., Shrestha, R., Rahman, M. S., … others. (2017). <a href="/asset/pub/Extract_flood_duration_from_Dartmouth_Flood_Observatory_flood_product.pdf" target="_blank">Extract flood duration from Dartmouth Flood Observatory flood product.</a> In <i>Agro-Geoinformatics, 2017 6th International Conference on (pp. 1–4)</i>.</p>
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Hu, L., Tang, J., & Yu, E. (2017). <a href="/asset/pub/Developing_a_Web_service_based_application_for_demographic_information_modeling_and_analyzing.pdf" target="_blank">Developing a Web service based application for demographic information modeling and analyzing.</a> In <i>Agro-Geoinformatics, 2017 6th International Conference on</i> (pp. 1–5).</p>
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yu, E. G., Kang, L., Shrestha, R., Rahman, M. S., … others. (2016). <a href="/asset/pub/A_review_of_remote_sensing_in_flood_assessment.pdf" target="_blank">A review of remote sensing in flood assessment.</a> In Agro-Geoinformatics (Agro-Geoinformatics), <i>2016 Fifth International Conference on (pp. 1–4)</i>.</p>
