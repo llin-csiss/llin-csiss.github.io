@@ -32,6 +32,11 @@
 <h2 class="entry-title">SELECTED PUBLICATIONS</h2><hr>
 </header>
 <div class="entry-content"> 
+<p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Guo, L., Zhao, H., Islam, D., Li, H., Liu, Z., & Middleton, G. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S2666683924000087" target="_blank">Modeling urban redevelopment: A novel approach using time-series remote sensing data and machine learning. </a><i>Geography and Sustainability</i>, 5(2), 211-219</p> 
+ <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., & Guo, L. (2023). <a href="https://ieeexplore.ieee.org/abstract/document/10339833" target="_blank">The global land surface temperature change in the 21st century—A satellite remote sensing based assessment. </a><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 17, 1756--1764</p> 
+
+
+ 
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Zhang, C., Guo, L. & Di, Y. (2021). <a href="https://www.mdpi.com/2072-4292/13/20/4022" target="_blank">Remote Sensing of Urban Poverty and Gentrification. </a><i>Remote Sensing</i>, 13(20), 4022</p> 
 <p style="text-align:left;"><strong>Lin, L.</strong>, Di, L., Yu, E., Zhang, C., & Zhao, H. (2021).<a href="/asset/pub/A_review_of_remote_sensing_in_flood_assessment.pdf" target="_blank"> Disaster Information Dissemination During Emergency Event: An Experiment in OGC Disaster Resilience Pilot.</a> In <i>2021 9th International Conference on Agro-geoinformatics (Agro-geoinformatics)</i> (pp. 1–4).</p>
                                                                                                                                      
