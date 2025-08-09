@@ -1,14 +1,11 @@
 
 
-- E-mail: llin2 at gmu dot edu
+- E-mail: lin at uaeu dot ac dot ae
 
-- Fax: 703-993-6127
+- Office: 03-7135075
 
 - Mailing Address:
-  4400 University Drive, MSN 6E1
-  George Mason University
-  Fairfax, VA 22030, USA
+  1st Floor, H1 Building
+  United Arab Emirates University
+  P.O. Box No. 15551, Al Ain, UAE
   
-- Physical Address:
-  4087 University Drive, Suite 3100
-  Fairfax, VA 22030
